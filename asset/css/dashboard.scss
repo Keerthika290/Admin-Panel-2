@@ -242,15 +242,10 @@ a{
             }
         }
         .customers{
-            display: flex;
-            flex-wrap: wrap;
-            gap: 24px;
             margin-top: 24px;
-            width: 265%;
+            width: 230%;
             color: #343a40;
             .sales-details{
-                flex-grow: 1;
-                flex-basis: 500px;
                 border-radius: 0px;
                 background-color:#fff;
                 padding: 20px;
